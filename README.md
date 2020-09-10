@@ -1,2 +1,2 @@
 # KTM-Duke-landing-page using HTML,CSS
-link for webpage
+Webpage view:-https://sparshgupta2212.github.io/KTM-Duke-landing-page/
